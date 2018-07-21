@@ -1,4 +1,37 @@
 /* Let's see if this works */
-h1 {
-	background-color: blue;
+ 
+
+.jumbotron {
+   background-image: url("../img/museum_3.jpg"); /* ../ is a relative path and this made my image show */
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 20px;
+   border: 2px solid black;
+   -webkit-border: 2px solid black; /* these last two i'm don't seem to work for chrome  the webkit and moz for border */
+   -moz-border: 2px solid black;
 }
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 36px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.jumbotron h1{
+  position: relative;
+  top: 325px;
+  left: 5px;
+}
+/* jumbotron ending */
