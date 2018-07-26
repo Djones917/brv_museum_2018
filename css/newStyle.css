@@ -1,7 +1,7 @@
 /* Let's see if this works */ 
 
 .jumbotron {
-   background-image: url("../img/museum_3.jpg"); /* ../ is a relative path and this made my image show */
+   background-image: url("../img/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
    height: 500px;
    background-repeat: no-repeat;
    background-size: cover;
