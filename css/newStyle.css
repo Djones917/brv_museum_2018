@@ -21,18 +21,16 @@
   font-size: 36px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
+  position: relative;
+  top: 325px;
+  left: 5px;
 }
 
 .jumbotron p {
   font-size: 20px;
   color: #fff;
-}
+} 
 
-.jumbotron h1{
-  position: relative;
-  top: 325px;
-  left: 5px;
-}
 /* jumbotron ending */
 
 
@@ -48,7 +46,10 @@
 	background-color: #007bff;
 	color: white;
 }
+
 /* card ending */
+
+
 
 .welcome-to h3 {
 	color: #418bca; 
