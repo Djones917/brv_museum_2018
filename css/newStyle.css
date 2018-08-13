@@ -1,5 +1,12 @@
 /* Let's see if this works */ 
 
+.container {
+	border-right: 2px solid black; /* new design */
+    border-left: 2px solid black;
+}
+
+/* end of container */
+
 .jumbotron {
    background-image: url("../img/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
    height: 500px;
