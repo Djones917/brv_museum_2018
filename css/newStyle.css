@@ -7,6 +7,7 @@
 
 /* end of container */
 
+
 .jumbotron {
    background-image: url("../img/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
    height: 500px;
@@ -58,6 +59,5 @@
 
 
 
-.welcome-to h3 {
-	color: #418bca; 
-}
+
+
