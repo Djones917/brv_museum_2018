@@ -1,5 +1,21 @@
-.navbar-light .navbar-nav .nav-link {
-	background-color: blue;
-	border-radius: 5px;
-	color: white    	
+/* Bootstrap only override!!! */
+
+/* navbar override */
+.bg-light {
+	background-color: white !important;
+	border-radius: 5px !important;
+	color: white !important;   	
 }
+
+.navbar-brand {
+	color: blue !important;
+}
+
+.navbar-nav .nav-link {
+	background-color: blue !important;
+	border-radius: 10px !important;
+	margin: 5px 5px !important;
+	text-align: center !important;
+	color: white !important;
+}
+
