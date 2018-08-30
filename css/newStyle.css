@@ -1,13 +1,16 @@
 /* Let's see if this works */ 
 
+/* START OF CONTAINER STYLES */
 .container {
 	border-right: 2px solid black; /* new design */
     border-left: 2px solid black;
 }
+/* END OF CONTAINER STYLES */
 
-/* end of container */
 
 
+
+/* START OF JUMBOTRON STYLES */
 .jumbotron {
    background-image: url("../img/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
    height: 500px;
@@ -38,11 +41,42 @@
   font-size: 20px;
   color: #fff;
 } 
-
-/* jumbotron ending */
-
+/* END OF JUMBOTRON STYLES */
 
 
+
+
+/* START OF INDEX.HTML STYLES */
+.welcome-to {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.visit-us {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.event-title {
+  margin-top: 30px;	
+  margin-bottom: 10px;
+}
+
+.our-events-main-one {
+   margin-top: 10px;
+   margin-bottom: 20px;   
+}
+
+.our-events-main-two {
+   margin-top: 10px;
+   margin-bottom: 20px;   
+}
+/* END OF INDEX.HTML STYLES */
+
+
+
+
+/* 	GLOBAL CARD STYLES */
 .card {
 	border: solid 1px #007bff;
 	-webkit-box-shadow: 0px 8px 5px 0px rgba(0,0,0,0.36);
@@ -54,10 +88,19 @@
 	background-color: #007bff;
 	color: white;
 }
-
-/* card ending */
-
+/* END OF GLOBAL CARD STYLES */
 
 
 
+
+/* END OF GLOBAL FOOTER STYLES */
+.footer-info {
+	margin-top: 30px;
+	padding-top: -30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+	background-color: #999797;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
 
