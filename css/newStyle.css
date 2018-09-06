@@ -12,7 +12,7 @@
 
 /* START OF JUMBOTRON STYLES */
 .jumbotron {
-   background-image: url("../images/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
+   background-image: url("../img/general/museum_3.jpg"); /* ../ is a relative path and this made my image show */
    height: 500px;
    background-repeat: no-repeat;
    background-size: cover;
