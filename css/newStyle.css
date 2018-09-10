@@ -76,6 +76,20 @@
 
 
 
+/* START OF ABOUT.HTML STYLES */
+.mission-statement {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.museum-donations {
+	margin-top: 30px;	
+    margin-bottom: 30px;
+}
+/* END OF ABOUT.HTML STYLES */
+
+
+
 /* 	GLOBAL CARD STYLES */
 .card {
 	border: solid 1px #007bff;
