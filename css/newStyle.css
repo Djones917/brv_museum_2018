@@ -1,5 +1,15 @@
 /* Let's see if this works */ 
 
+
+
+
+/* START OF SITE COLORS */
+/* END OF SITE COLORS */
+
+
+
+
+
 /* START OF CONTAINER STYLES */
 .container {
 	border-right: 2px solid black; /* new design */
@@ -87,6 +97,22 @@
     margin-bottom: 30px;
 }
 /* END OF ABOUT.HTML STYLES */
+
+
+
+
+/* START OF IMAGE.HTML STYLES */
+.our-gallery {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.title {
+	text-align: center;
+}
+/* END OF IMAGE.HTML STYLES */
+
+
 
 
 
