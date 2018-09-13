@@ -81,6 +81,24 @@
    margin-top: 20px;
    margin-bottom: 20px;   
 }
+
+/* might change more to BEM design pattern and rename this later on */
+.welcome-to h3 {   
+	color: blue; 
+}
+/* might change more to BEM design pattern and rename this later on */
+
+/* might change more to BEM design pattern and rename this later on */
+.visit-us h3 {   
+	color: blue; 
+}
+/* might change more to BEM design pattern and rename this later on */
+
+/* might change more to BEM design pattern and rename this later on */
+.event-title h3 {   
+	color: blue; 
+}
+/* might change more to BEM design pattern and rename this later on */
 /* END OF INDEX.HTML STYLES */
 
 
