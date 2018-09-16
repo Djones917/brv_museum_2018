@@ -12,17 +12,19 @@
 }
 
 .navbar-nav .nav-link {
-	background-color: blue !important;
+	background-color: white!important;
 	border-radius: 10px !important;
 	margin: 5px 5px !important;
 	text-align: center !important;
-	color: white !important;
+	color: blue !important;
 }
 
 .navbar-nav .nav-link:hover {
-	background-color: purple !important;	
+	background-color: blue !important;
+    color: white !important;	
 }
 
 .navbar-nav .nav-link:active {
-	background-color: green !important;	
+	background-color: blue !important;
+    color: white !important;	
 }
