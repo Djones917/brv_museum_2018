@@ -1,12 +1,22 @@
-/* START OF SITE COLORS */
-/* END OF SITE COLORS */
+/* START OF SITE CSS VARIABLE COLORS */
+:root {
+	--main-front-color: #fff;
+	--main-background-color: #1266ab;
+}
+/* END OF SITE CSS VARIABLE COLORS */
 
 
 
 
 /* GLOBAL Styles */
 /* START OF CONTAINER STYLES */
+body {
+	background-color: var(--main-background-color);
+}
+
+
 .container {
+	background-color: var(--main-front-color);
 	border-right: 2px solid black; /* new design */
     border-left: 2px solid black;
 }
