@@ -78,8 +78,9 @@ body {
 
 /* START OF GLOBAL FOOTER STYLES */
 .footer-info {
+	text-align: center;
 	margin-top: 30px;
-	padding-top: -30px;
+	padding-top: 30px;
     padding-left: 30px;
     padding-bottom: 30px;
 	background-color: var(--main-footer-bg-color);
