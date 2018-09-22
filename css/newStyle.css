@@ -2,6 +2,9 @@
 :root {
 	--main-front-color: #fff;
 	--main-background-color: #1266ab;
+	--main-text-color: #009CCC;
+	--main-button-color: #337ab7;
+	--main-footer-bg-color: #3D4856;
 }
 /* END OF SITE CSS VARIABLE COLORS */
 
@@ -79,7 +82,7 @@ body {
 	padding-top: -30px;
     padding-left: 30px;
     padding-bottom: 30px;
-	background-color: #999797;
+	background-color: var(--main-footer-bg-color);
     color: #FFFFFF;
     border-radius: 5px;
 }
@@ -113,7 +116,7 @@ body {
 
 /* might change more to BEM design pattern and rename this later on */
 .general-info h3 {   
-	color: blue; 
+	color: var(--main-text-color); 
 }
 /* might change more to BEM design pattern and rename this later on */
 
