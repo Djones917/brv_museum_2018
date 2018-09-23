@@ -1,6 +1,6 @@
 /* Bootstrap only override!!! */
 
-/* navbar override */
+/* NARBAR OVERRIDE START */
 .bg-light {
 	background-color: white !important;
 	border-radius: 5px !important;
@@ -28,3 +28,4 @@
 	background-color: blue !important;
     color: white !important;	
 }
+/* NARBAR OVERRIDE END */
