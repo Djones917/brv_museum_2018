@@ -30,22 +30,22 @@ body {
 }
 
 .navbar-nav .nav-link {
-	background-color: white !important;
+	background-color: var(--main-button-color);
 	border-radius: 10px !important;
 	margin: 5px 5px !important;
 	text-align: center !important;
-	color: var(--main-button-color) !important;
+	color: white !important;
 }
 
 .navbar-nav .nav-link:hover {
-	background-color: blue !important;
+	background-color: var(--main-footer-bg-color) !important;
     color: white !important;	
 }
 
-.navbar-nav .nav-link:active {
+/*.navbar-nav .nav-link:active {
 	background-color: purple !important;
     color: white !important;	
-}
+}*/
 /* NARBAR OVERRIDE END */
 
 
