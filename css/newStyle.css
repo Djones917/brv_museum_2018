@@ -149,8 +149,9 @@ body {
 }
 
 /* might change more to BEM design pattern and rename this later on */
-.general-info h3 {   
-	color: var(--main-text-color); 
+.general-info__title  {   
+	/*color: var(--main-text-color);*/
+	color: purple;
 }
 /* might change more to BEM design pattern and rename this later on */
 
