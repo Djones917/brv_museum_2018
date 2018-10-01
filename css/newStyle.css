@@ -15,8 +15,8 @@
 /* START OF CONTAINER STYLES */
 body {
 	background-color: var(--main-background-color);
-	font-size; 1.5em;
-	font-family: 'Libre Baskerville', serif;
+	font-size; 1.5em; /* testing */
+	font-family: 'Libre Baskerville', serif; /* testing */
 }
 
 
@@ -140,6 +140,10 @@ body {
   margin-bottom: 30px;
 }
 
+.event-title h3 {   
+	color: purple; 
+}
+
 .our-events-main-one {
    margin-top: 20px;
    margin-bottom: 20px;   
@@ -154,12 +158,6 @@ body {
 .general-info__title  {   
 	color: var(--main-text-color);
 	color: #009CCC;
-}
-/* might change more to BEM design pattern and rename this later on */
-
-/* might change more to BEM design pattern and rename this later on */
-.event-title h3 {   
-	color: blue; 
 }
 /* might change more to BEM design pattern and rename this later on */
 /* END OF INDEX.HTML STYLES */
@@ -178,3 +176,15 @@ body {
 }
 /* END OF IMAGE.HTML STYLES */
 
+
+
+
+
+/* START OF VISIT STYLES */
+/* Kind of broke BEM naming for this */
+.general-info__titlemap {
+	margin-top: 30px;
+	color: var(--main-text-color);
+	color: #009CCC;
+}
+/* START OF VISIT STYLES */
