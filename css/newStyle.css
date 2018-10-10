@@ -1,3 +1,4 @@
+/* GLOBAL STYLES */
 /* START OF SITE CSS VARIABLE COLORS */
 :root {
 	--main-front-color: #fff;
@@ -11,7 +12,7 @@
 
 
 
-/* GLOBAL STYLES */
+
 /* START OF CONTAINER STYLES */
 body {
 	background-color: var(--main-background-color);
