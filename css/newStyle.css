@@ -168,6 +168,7 @@ body {
 /* START OF IMAGE.HTML STYLES */
 .our-gallery__title {
 	color: var(--main-text-color);
+	font-weight: bold;
 }
 
 .title {
