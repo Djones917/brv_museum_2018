@@ -20,6 +20,16 @@ body {
 	font-family: 'Open Sans', sans-serif; /* testing */
 }
 
+.container {
+	background-color: var(--main-front-color);
+	border-right: 2px solid black; /* new design */
+    border-left: 2px solid black;
+}
+/* END OF CONTAINER STYLES */
+
+
+
+
 
 /* NARBAR OVERRIDE START */
 .bg-light {
@@ -54,12 +64,7 @@ body {
 /* NARBAR OVERRIDE END */
 
 
-.container {
-	background-color: var(--main-front-color);
-	border-right: 2px solid black; /* new design */
-    border-left: 2px solid black;
-}
-/* END OF CONTAINER STYLES */
+
 
 
 /* START OF JUMBOTRON STYLES */
@@ -81,7 +86,7 @@ body {
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 36px;  
+  /*font-size: 36px;*/  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
   position: relative;
@@ -94,6 +99,9 @@ body {
   color: #fff;
 } 
 /* END OF JUMBOTRON STYLES */
+
+
+
 
 
 /* 	START OF GLOBAL CARD STYLES */
@@ -109,6 +117,9 @@ body {
 	color: white;
 }
 /* END OF GLOBAL CARD STYLES */
+
+
+
 
 
 /*START OF GENERAL-INFO */
