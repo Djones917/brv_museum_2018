@@ -1,0 +1,68 @@
+/* GLOBAL STYLES */
+/* START OF SITE CSS VARIABLE COLORS */
+:root {
+	--main-front-color: #fff;
+	--main-background-color: #1266ab;
+	--main-text-color: #009CCC;
+	--main-button-color: #337ab7;
+	--main-footer-bg-color: #3D4856;
+}
+/* END OF SITE CSS VARIABLE COLORS */
+
+
+
+/* START OF CONTAINER AND BODY STYLES */
+body {
+	background-color: var(--main-background-color);
+	font-size; 100%; /* testing */
+	font-family: 'Open Sans', sans-serif; /* testing */
+}
+
+.container {
+	background-color: var(--main-front-color);
+	border-right: 2px solid black; /* new design */
+    border-left: 2px solid black;
+}
+/* END OF CONTAINER AND BODY STYLES */
+
+
+
+
+/*START OF GENERAL-INFO */
+.general-info {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+/* END OF GENERAL-INFO */
+
+
+
+/* 	START OF GLOBAL CARD STYLES */
+.card {
+	border: solid 1px #007bff;
+	-webkit-box-shadow: 0px 8px 5px 0px rgba(0,0,0,0.36);
+    -moz-box-shadow: 0px 8px 5px 0px rgba(0,0,0,0.36);
+    box-shadow: 0px 8px 5px 0px rgba(0,0,0,0.36);
+}
+
+.card-header {
+	background-color: #007bff;
+	color: white;
+}
+/* END OF GLOBAL CARD STYLES */
+
+
+
+/* START OF GLOBAL FOOTER STYLES */
+.footer-info {
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+	background-color: var(--main-footer-bg-color);
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+/* END OF GLOBAL FOOTER STYLES */
+/* END OF GLOBAL STYLES */

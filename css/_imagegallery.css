@@ -1,0 +1,10 @@
+/* START OF IMAGE.HTML STYLES */
+.our-gallery__title {
+	color: var(--main-text-color);
+	font-weight: bold;
+}
+
+.title {
+	text-align: center;
+}
+/* END OF IMAGE.HTML STYLES */

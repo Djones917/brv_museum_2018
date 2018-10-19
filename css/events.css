@@ -1,0 +1,24 @@
+/* START OF INDEX.HTML EVENTS STYLES */
+.event-title {
+  margin-top: 30px;	
+  margin-bottom: 30px;
+}
+
+.our-events-main-one {
+   margin-top: 20px;
+   margin-bottom: 20px;   
+}
+
+.our-events-main-two {
+   margin-top: 20px;
+   margin-bottom: 20px;   
+}
+
+/* might change more to BEM design pattern and rename this later on */
+.general-info__title  {   
+	color: var(--main-text-color);
+	color: #009CCC;
+	font-weight: bold;
+}
+/* might change more to BEM design pattern and rename this later on */
+/* END OF INDEX.HTML  EVENTS STYLES */
